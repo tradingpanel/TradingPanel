@@ -26,7 +26,8 @@ Contact us:
 * [Instagram](https://www.instagram.com/tradingpanel)
 * [Vkontakte](https://vk.com/tradingpanel)
 
-## Github
+## Github and docs
 
 * [Bugs, ideas, improvement requests](https://github.com/tradingpanel/TradingPanel/issues)
 * [Roadmap (development plan)](https://github.com/tradingpanel/TradingPanel/projects)
+* [Docs](https://docs.tradingpanel.pro)
