@@ -4,7 +4,7 @@ Coming soon...
 
 Get eargly access: [Create account](https://tradingpanel.pro/register)
 
-Contact us:
+*Contact us*
 
 ## Messengers
 
@@ -26,8 +26,8 @@ Contact us:
 * [Instagram](https://www.instagram.com/tradingpanel)
 * [Vkontakte](https://vk.com/tradingpanel)
 
-## Github and docs
+## Docs, bugs, improvement
 
-* [Bugs, ideas, improvement requests](https://github.com/tradingpanel/TradingPanel/issues)
-* [Roadmap (development plan)](https://github.com/tradingpanel/TradingPanel/projects)
 * [Docs](https://docs.tradingpanel.pro)
+* [Bugs, ideas, improvement requests on Github](https://github.com/tradingpanel/TradingPanel/issues)
+* [Roadmap (development plan) on Github](https://github.com/tradingpanel/TradingPanel/projects)
