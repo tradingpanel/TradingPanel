@@ -4,11 +4,12 @@ Coming soon...
 
 Get eargly access: [Create account](https://tradingpanel.pro/register)
 
-**Contact us**
+🔥**Contact us by ↓**
 
 ## Messengers
 
 *Telegram*
+
 * [Chat EN @tradingpanel](https://t.me/tradingpanel)
 * [Chat RU @tradingpanelru](https://t.me/tradingpanelru)
 * [Support @tradingpanelsupportbot](https://t.me/tradingpanelsupportbot)
