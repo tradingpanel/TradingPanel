@@ -32,3 +32,4 @@ Get eargly access: [Create account](https://tradingpanel.pro/register)
 * [Docs](https://docs.tradingpanel.pro)
 * [Bugs, ideas, improvement requests on Github](https://github.com/tradingpanel/TradingPanel/issues)
 * [Roadmap (development plan) on Github](https://github.com/tradingpanel/TradingPanel/projects)
+* mail@tradingpanel.pro
