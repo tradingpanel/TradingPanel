@@ -4,7 +4,7 @@ Coming soon...
 
 Get eargly access: [Create account](https://tradingpanel.pro/register)
 
-*Contact us*
+**Contact us**
 
 ## Messengers
 
