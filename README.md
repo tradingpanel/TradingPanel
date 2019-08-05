@@ -19,7 +19,7 @@ Get early access: [Create account](https://tradingpanel.pro/register)
 
 [Vkontakte](https://vk.me/club183364044)
 
-[Viber (open on the pnone)](https://tinyurl.com/yxjop8lo)
+<!-- [Viber (open on the pnone)](https://tinyurl.com/yxjop8lo) -->
 
 ## Social
 
