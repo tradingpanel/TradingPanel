@@ -26,10 +26,13 @@ Get early access: [Create account](https://tradingpanel.pro/register)
 * [Facebook](https://www.facebook.com/tradingpanel)
 * [Instagram](https://www.instagram.com/tradingpanel)
 * [Vkontakte](https://vk.com/tradingpanel)
+* [Twitter](https://twitter.com/tradingpanel)
+* [Mwdium](https://medium.com/@tradingpanel)
 
 ## Docs, bugs, improvement
 
 * [Docs](https://docs.tradingpanel.pro)
-* [Bugs, ideas, improvement requests on Github](https://github.com/tradingpanel/TradingPanel/issues)
+* [Feature request on Github](https://github.com/tradingpanel/TradingPanel/issues/new?assignees=tradingpanel&labels=enhancement&template=feature_request.md)
+* [Bug report on Github](https://github.com/tradingpanel/TradingPanel/issues/new?assignees=tradingpanel&labels=bug&template=bug_report.md&title=)
 * [Roadmap (development plan) on Github](https://github.com/tradingpanel/TradingPanel/projects/1)
 * mail@tradingpanel.pro
