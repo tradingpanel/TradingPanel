@@ -16,6 +16,7 @@ Get early access: [Create account](https://tradingpanel.pro/register)
 * [News and improvements @tradingpanelnews](https://t.me/tradingpanelnews)
 
 [Facebook Messenger](https://m.me/107842180549022)
+
 [Vkontakte](https://vk.me/club183364044)
 
 ## Social
