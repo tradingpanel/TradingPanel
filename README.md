@@ -16,10 +16,7 @@ Get early access: [Create account](https://tradingpanel.pro/register)
 * [News and improvements @tradingpanelnews](https://t.me/tradingpanelnews)
 
 [Facebook Messenger](https://m.me/107842180549022)
-
 [Vkontakte](https://vk.me/club183364044)
-
-<!-- [Viber (open on the pnone)](https://tinyurl.com/yxjop8lo) -->
 
 ## Social
 
@@ -27,7 +24,7 @@ Get early access: [Create account](https://tradingpanel.pro/register)
 * [Instagram](https://www.instagram.com/tradingpanel)
 * [Vkontakte](https://vk.com/tradingpanel)
 * [Twitter](https://twitter.com/tradingpanel)
-* [Mwdium](https://medium.com/@tradingpanel)
+* [Medium](https://medium.com/@tradingpanel)
 
 ## Docs, bugs, improvement
 
