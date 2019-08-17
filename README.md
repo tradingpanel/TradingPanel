@@ -1,4 +1,4 @@
-# Trading Panel for Binance
+# Trading terminal with bots for Binance using Pine-script powered by TradingView
 
 Coming soon...
 
