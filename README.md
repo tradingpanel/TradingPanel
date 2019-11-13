@@ -2,7 +2,9 @@
 
 Coming soon...
 
-Get early access: [Create account](https://tradingpanel.pro/register)
+[Create account](https://tradingpanel.pro/register)
+
+[Screenshots](screenshots.md)
 
 🔥**Contact us by ↓**
 
